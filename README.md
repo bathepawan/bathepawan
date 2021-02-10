@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I'm Pawan Bathe I am working as Software Enigeer at Qualcomm, Bangalore. <br>
+Hi I'm Pawan Bathe, I am working as Software Engineer at Qualcomm, Bangalore. <br>
 I have keen interest in Software Automation. <br>
 I am specialized in Test Frameworks Development, Test Tools Development and Test Automation <br>
 
